@@ -1,0 +1,1 @@
+[18-Sep-2017 20:56:20 America/Bogota] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alexrubi/public_html/demo/empresa.php on line 7

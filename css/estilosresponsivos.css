@@ -1,0 +1,31 @@
+@media (max-width: 600px) {
+    .ingresoInformacion {
+        font-size: 28px;
+        width: 35%;
+        background-color: transparent;
+        color:black;
+        border-color: black; 
+        margin:10px;
+    }
+    .botonResponsivo1{
+        font-size: 20px;
+        margin: 10px;
+    }
+    .resultadosValidacion{
+        border:1px solid black;
+        font-size: 20px;
+        margin:10px;
+    }
+    #motivoOrden{
+        
+    }
+    #div_detalle_orden{
+        font-size: 20px;
+    }
+
+    #letrero_items{
+        font-size: 20px;
+    }
+
+
+}

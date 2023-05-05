@@ -1,0 +1,5 @@
+[18-Nov-2020 13:30:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home/ctwtvsxj/public_html/demo2/webservice/placas.php:39
+Stack trace:
+#0 /home/ctwtvsxj/public_html/demo2/webservice/placas.php(39): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ctwtvsxj/public_html/demo2/webservice/placas.php on line 39

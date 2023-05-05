@@ -1,0 +1,13 @@
+#div_pedir_datos_orden{
+    font: 25px;
+}
+
+.filaGrisOrden{
+    background-color: gray;
+    color: blue;
+    font-size: 50px;
+}
+
+.filaAmarillaOrden{
+    background-color: yellow;
+}

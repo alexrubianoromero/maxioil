@@ -1,0 +1,256 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3/05/2021, 09:34:15 AM
+    Author     : Alex Rubiano 
+*/
+.alerta1{
+	color:red;
+}
+.fondoPrograma{
+	background-color: black;
+	color:white;
+}
+#placaPeritaje{
+	background-color:transparent;
+	color:white;
+	border: 1px solid;
+}
+#div_pregunte_datos_propietario,#myModalLabel,#div_pedir_datos_orden,#cuerpoModalDatosOrden,#div_detalle_orden,#div_items_orden{
+	color:black;
+}
+.avisoGrabado{
+	color:black;
+}
+#myModalClientes{
+	background-color: #c0c0c0;
+}
+#div_prueba_respuestas{
+	border: 1px solid black;
+}
+#botones_cuadrados{
+	position:relative;
+}
+#div_general{
+	position:relative;
+}
+#div_segunda_parte_crecion_pedido{
+	background-color: #f2f3f4 ;	
+	display:none;
+		
+}		
+#div_tercera_parte_creacion_pedidos{
+		/*background-color:  #aeb6bf  ;*/	
+			display:none;
+}
+#div_parte_final_crear_pedido{
+		display:none;
+}
+/*#btnGrabarOrdenTrabajoMovil{
+	display:none;
+}*/
+.titulo3{
+	font-weight: bold;
+}
+.lupabuscar{
+	 background-color: #D52B1E;
+}
+.botondegrabar{
+	 background-color: #D52B1E;
+}
+ .titulopedidos{
+				  /*background-color: #c0c0c0;*/
+				  /*background-color: #3393FF;*/
+				  /*background-color: #3374FF;*/
+				  background-color: #983222;
+				  
+				  color:white;
+				  margin: 5px;
+			  }
+			  
+			  
+select:focus{ outline: none;}
+.claseSeleccion:focus{ 
+	outline: none;}
+.claseSeleccion{
+	background-color: #D52B1E;
+	/*background-color:transparent;*/
+}
+.claseSeleccion:hover{
+	background-color: #D52B1E;
+	
+}
+
+.pagination{
+	background-color: #D52B1E;
+	 color: #D52B1E;
+}
+.bontonmenuprincipal{
+	/*color:#606060;*/
+	 background-color: #D52B1E;
+	 color:white;
+	
+}
+.bontonmenuprincipal:hover { 
+	color:black;
+}
+.colorpaginador{
+    color: #D52B1E;
+}
+.titulo1{
+	color: #303030;
+	font-size: 36px;
+}
+.botoninicio{
+	background-color:transparent;
+	color:white;
+	 height: 55px;
+	 width: 70%;
+	 font-size: 35px;
+	
+}
+.bontoningresar{
+	background-color: #D52B1E;
+	color:white;
+	height: 55px;
+	width: 70%;
+	font-size: 35px;
+}
+
+.bontonesmenu{
+		position:relative;
+		 height:60px;
+		background-color: #D52B1E;
+		 margin: 15px;
+		font-size: 25px;
+		border-radius:10px;
+}
+.bontonesmenuinternos{
+	position:relative;
+	 height:40px;
+	background-color: #D52B1E;
+	 margin: 15px;
+	font-size: 20px;
+	border-radius:10px;
+	color :white;
+}
+.bontonesmenuinternos:hover{
+	color:black;
+}
+
+/* #divBotonesPrincipales{
+	width: 45%;
+} */
+	.bontonsalir{
+					color:#606060;
+					 margin: 15px;
+					 height:50px;
+					 font-size: 25px;
+					  border-radius:10px;
+				}
+.bontonsalir:hover { 
+	background-color:transparent;
+	color:black;
+}
+.bontonespagina{
+	/*background-color:rgb(213,43,30);*/
+	background-color: #D52B1E;
+	 margin: 5px;
+}
+.bontonespaginaingreso{
+	/*background-color:rgb(213,43,30);*/
+	background-color: #D52B1E;
+}
+.bontonespagina:hover { 
+	background-color: #D52B1E;
+	color: black; }
+.bontonespaginaingreso:hover { 
+	background-color: #D52B1E;
+	color: black; }
+body{
+	/* background-color: black; */
+}
+#div_titulo_resumen_referencias{
+	display:none;
+}
+
+#div_resumen_referencias{
+	display:none;
+	
+}
+
+ #btn_cerrar_div_mostrar_imagenes_ref{
+            display:none;
+        }
+        #div_mostrar_imagenes_ref{
+            display:none;
+        }
+        .listaimagen{
+            list-style:none;
+        }
+        .fotosreferencias{
+            /*border:1px solid black;*/
+            border-radius:10%;
+            padding: 10px;
+            margin: 10px;
+        }
+        #div_abajo{
+/*            overflow-x: scroll;
+            overflow-y: hidden;*/
+        }
+        #div_principal{
+            position:relative; 
+            width: 90%;
+            /* border: 1px solid black ; */
+             /*background-image: url("gradiente1.jpg");*/
+
+        }
+        .imagenesinicio{
+            width: 40%;
+			font-size: 30px;
+        }
+		#slogankaymo{
+			/* color:white; */
+		}
+        button,select{
+            position:relative;
+            width: 95%;
+            margin: 2px;
+        }
+		
+		#btn_pedidos_operaciones{
+			margin:0px;  
+		}
+		
+		#btnAgregarItemPedido{
+			width: 90%;
+			height:35px;
+			font-size: 15px;
+			padding: 2px;
+		}
+        .imagenesinicio{
+                 width: 60%;
+             }
+			 #slogankaymo{
+				color:white;
+				font-size: 20px;
+			}
+      .sinmargen{
+			margin:0px;  
+		}
+		.conlinea{
+			border:1px solid black;
+		}
+         /* haga esto hasta solo hasta que el ancho maximo sea 1000*/
+        
+		  
+		  /* haga esto a partir de 501 pixeles en adelante */
+/*          @media (min-width: 1001px) {
+		
+                #div_principal{
+                    width: 50%;
+                }
+          }*/
